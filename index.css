@@ -1,7 +1,7 @@
     body, html {
       height: 100%;
       margin: 0;
-      background-color: rgba(45, 45, 45);
+      background-color: rgba(40, 40, 40);
     }
 
     .navlogo {
@@ -18,7 +18,7 @@
 
     .navbar {
       font-family: 'Homemade Apple', cursive;
-      background-color: rgb(50, 50, 50);
+      background-color: rgb(40, 40, 40);
       width: auto;
       height: auto;
       font-size: 50px;
@@ -42,7 +42,7 @@
     .content {
       font-family: 'Lato', cursive;
       font-size: 36px;
-      background-color: rgba(45, 45, 45);
+      background-color: rgba(50, 50, 50);
       margin: 0px 0px 0px 0px;
       border: 15px;
       padding: 45px;
