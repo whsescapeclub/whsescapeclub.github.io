@@ -1,0 +1,88 @@
+    body, html {
+      height: 100%;
+      margin: 0;
+      background-color: rgba(45, 45, 45);
+    }
+
+    .navlogo {
+      height: 60px;
+      width: 60px;
+      padding: 5px;
+    }
+
+    .homelink {
+      color: #000000;
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+    }
+
+    .navbar {
+      font-family: 'Homemade Apple', cursive;
+      background-color: rgb(50, 50, 50);
+      width: auto;
+      height: auto;
+      font-size: 50px;
+      padding: 5px
+    }
+
+    .banner {
+      /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+      background-image: url("img/banner.png");
+      /* Set a specific height */
+      height: 100%;
+      width: auto;
+
+      /* Position and center the image to scale nicely on all screens */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+
+    .content {
+      font-family: 'Lato', cursive;
+      font-size: 36px;
+      background-color: rgba(45, 45, 45);
+      margin: 0px 0px 0px 0px;
+      border: 15px;
+      padding: 45px;
+      height: auto;
+    }
+
+    .link {
+      width: 100px;
+      height: 100px;
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+      margin: 250px;
+      float: left;
+    }
+
+    .left {
+      float: left;
+    }
+
+    .right {
+      float: right
+    }
+
+    .link > img {
+      height: 100px;
+      width: 100px;
+    }
+
+    .link > p {
+      font-size: 24px;
+    }
+
+    .linkscontainer {
+      background-color: rgba(45, 45, 45);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      width: 100%;
+      height: 100%;
+      margin: auto;
+      display: inline;
+    }
