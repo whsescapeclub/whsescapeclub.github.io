@@ -76,7 +76,7 @@
     }
 
     .linkscontainer {
-      background-color: rgba(45, 45, 45);
+      background-color: rgba(45, 45, 45, 0);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
