@@ -28,20 +28,32 @@
     .banner {
       /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
       background-size: auto;
+
+      background-color: rgb(108, 108, 108);
       /* Set a specific height */
       height: 100%;
-      width: auto;
+      width: 100%;
 
       /* Position and center the image to scale nicely on all screens */
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
       position: relative;
+      text-align: center;
+      vertical-align: middle;
     }
 
     .bannerimg {
-      height: 100%;
-      width: 100%;
+      height: 75%;
+      width: 75%;
+      /* Position and center the image to scale nicely on all screens */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: center;
+      text-align: center;
+      margin-top: 10%;
+      margin-bottom: auto;
     }
 
     .content {
