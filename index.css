@@ -104,3 +104,12 @@
       margin: auto;
       display: inline;
     }
+    .listheader {
+      padding-left: 20%;
+      padding-right: 10%;
+    }
+    .list {
+      display: inline-block;
+      padding-left: 20%;
+      padding-right: 10%;
+    }
